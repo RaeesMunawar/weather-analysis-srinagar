@@ -1,0 +1,5 @@
+Type,Month,Metric,Value
+Hottest,Jul,Daily_Max_C,30.0
+Coldest,Jan,Daily_Min_C,-1.9
+Wettest,Mar,Rainfall_mm,104.6
+Driest,Oct,Rainfall_mm,21.8
